@@ -1,0 +1,78 @@
+P-CAD Schematic ASCII File Export Log :
+      Information : Start export of symbol definitions for parts
+      Warning :     Symbol name [STM32F030F4P6], mode [Normal], part [1] changed to [STM32F030F4P6_1_N]
+      Warning :     Rectangle [1500mil : 4300mil]-[2700mil : 5900mil] exported as lines.
+      Warning :     Symbol name [LED2], mode [Normal], part [1] changed to [LED2_1_N]
+      Warning :     Symbol name [CH340], mode [Normal], part [1] changed to [CH340_1_N]
+      Warning :     Symbol name [ZX62M-B-5P(01)], mode [Normal], part [1] changed to [ZX62M-B-5P(01)_1_N]
+      Warning :     Symbol name [LM2937IMP-12], mode [Normal], part [1] changed to [LM2937IMP-12_1_N]
+      Warning :     Symbol name [XTAL], mode [Normal], part [1] changed to [XTAL_1_N]
+      Warning :     Symbol name [Cap Semi], mode [Normal], part [1] changed to [Cap_Semi_1_N]
+      Information : End export of symbol definitions for part
+      Information : Start exporting the symbol definitions for power ports
+      Warning :     End exporting the symbol defintions for power ports
+      Information : Start exporting component definitions
+      Warning :     Component [U?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [D?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [U?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [P?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [U?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [Y?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [C?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Warning :     Component [C?] in sheet [C:\Users\D6D3~1\AppData\Local\Temp\Pro3D64.tmp] doesn't have a library reference
+      Information : End exporting component definitions
+      Information : Start exporting component definitions for power ports
+      Warning :     End exporting component definitions for powerports
+      Information : Start export of netlist
+      Information : Start export of component instances
+      Information : End export of component instances
+      Information : Start export of nets
+      Information : End export of nets
+      Information : End export of netlist
+      Information : Start exporting the objects for sheet [Sheet1]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [800mil : 4500mil] as component with designator [PVCC1]
+      Warning :     Exporting powerport at [3400mil : 4500mil] as component with designator [GND1]
+      Warning :     Exporting powerport at [500mil : 6800mil] as component with designator [PVCC2]
+      Warning :     Exporting powerport at [6800mil : 6600mil] as component with designator [GND2]
+      Warning :     Exporting powerport at [6200mil : 5400mil] as component with designator [GND3]
+      Warning :     Exporting powerport at [8800mil : 6800mil] as component with designator [GND4]
+      Warning :     Exporting powerport at [8300mil : 5600mil] as component with designator [PVCC3]
+      Warning :     Exporting powerport at [9000mil : 6500mil] as component with designator [PVCC4]
+      Warning :     Exporting powerport at [10500mil : 6800mil] as component with designator [PVCC5]
+      Warning :     Exporting powerport at [8800mil : 4600mil] as component with designator [GND5]
+      Warning :     Exporting powerport at [9600mil : 4500mil] as component with designator [GND6]
+      Information : End exporting the objects for sheet [Sheet1]
+EndLog
