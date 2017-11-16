@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 67-23SDRSUGSUBC_TR8.LibPkg
+
+Section : D:\prog\ALTIUM\Altium1\FIRST\67-23SDRSUGSUBC_TR8.lia
+    Section : PCB Library - 67-23SDRSUGSUBC_TR8.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 3LED On Line 128
+            Warning - 1 : Skipping Token attachedSymbol On Line 256
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 67-23SDRSUGSUBC_TR8.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token isVisible On Line 201
+            Warning - 1 : Skipping Token isVisible On Line 202
+            Warning - 1 : Skipping Token isVisible On Line 203
+        EndSection
+
+        Section : Generating SCH Library - 67-23SDRSUGSUBC_TR8.SchLib
+        EndSection
+    EndSection
+EndSection

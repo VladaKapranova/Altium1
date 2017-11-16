@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : IRF840.LibPkg
+
+Section : D:\prog\ALTIUM\Altium1\FIRST\IRF840.lia
+    Section : PCB Library - IRF840.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 119
+            Warning - 1 : Skipping Token isVisible On Line 162
+            Warning - 1 : Skipping Token isVisible On Line 163
+            Warning - 1 : Skipping Token isVisible On Line 164
+            Warning - 1 : Skipping Token IGFET-EN-GDS On Line 186
+            Warning - 1 : Skipping Token attachedSymbol On Line 249
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - IRF840.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 157
+        EndSection
+
+        Section : Generating SCH Library - IRF840.SchLib
+        EndSection
+    EndSection
+EndSection
