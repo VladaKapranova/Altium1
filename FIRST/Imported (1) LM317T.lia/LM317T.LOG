@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : LM317T.LibPkg
+
+Section : C:\Users\рома\Desktop\Новая папка (3)\Altium1\FIRST\LM317T.lia
+    Section : PCB Library - LM317T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM317T On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 175
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM317T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - LM317T.SchLib
+        EndSection
+    EndSection
+EndSection

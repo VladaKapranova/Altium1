@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : CH340.LibPkg
+
+Section : C:\Users\рома\Desktop\Новая папка (3)\Altium1\FIRST\CH340.lia
+    Section : PCB Library - CH340.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CH340 On Line 218
+            Warning - 1 : Skipping Token attachedSymbol On Line 404
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CH340.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 202
+        EndSection
+
+        Section : Generating SCH Library - CH340.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ZX62M-B-5P_01_.LibPkg
+
+Section : C:\Users\рома\Desktop\Новая папка (3)\Altium1\FIRST\ZX62M-B-5P_01_.lia
+    Section : PCB Library - ZX62M-B-5P_01_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ZX62M-B-5P(01) On Line 182
+            Warning - 1 : Skipping Token attachedSymbol On Line 265
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ZX62M-B-5P_01_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 160
+        EndSection
+
+        Section : Generating SCH Library - ZX62M-B-5P_01_.SchLib
+        EndSection
+    EndSection
+EndSection
