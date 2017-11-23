@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetT1_1 Pin=T1-1
+Removed Pin From Net: NetName=NetT3_1 Pin=T3-1
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=S?
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=P10 NewDesignator=P3
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=T3 NewDesignator=T1
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetT3_1 Pin=T3-1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component S2 SW-PB
